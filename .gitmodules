@@ -1,3 +1,9 @@
 [submodule "external/JUCE"]
 	path = external/JUCE
 	url = https://github.com/juce-framework/JUCE.git
+[submodule "external/DaisySP"]
+	path = external/DaisySP
+	url = https://github.com/daisyaudio/DaisySP
+[submodule "external/libDaisy"]
+	path = external/libDaisy
+	url = https://github.com/daisyaudio/libDaisy
